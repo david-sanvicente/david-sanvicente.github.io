@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9ceddbc899d5588b673c",
-    "url": "/david-sanvicente.github.io/static/css/main.8653b172.chunk.css"
+    "revision": "7a262ac0b9a499e7b987",
+    "url": "/david-sanvicente.github.io/static/css/main.ca4e6b42.chunk.css"
   },
   {
-    "revision": "9ceddbc899d5588b673c",
-    "url": "/david-sanvicente.github.io/static/js/main.86b84c42.chunk.js"
+    "revision": "7a262ac0b9a499e7b987",
+    "url": "/david-sanvicente.github.io/static/js/main.3a0e7b55.chunk.js"
   },
   {
     "revision": "8d22869e2303ef738a5d",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/david-sanvicente.github.io/static/media/nybright.11122160.jpg"
   },
   {
-    "revision": "6ff7de2f710384b507ac71d734549fad",
+    "revision": "55d34b615d4393da5b8e2d8e64e78ddb",
     "url": "/david-sanvicente.github.io/index.html"
   }
 ];
