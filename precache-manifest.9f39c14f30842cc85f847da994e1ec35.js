@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "7a262ac0b9a499e7b987",
-    "url": "/david-sanvicente.github.io/static/css/main.ca4e6b42.chunk.css"
+    "revision": "bdafbf2c943ea00747f5",
+    "url": "/david-sanvicente.github.io/static/css/main.5a690e56.chunk.css"
   },
   {
-    "revision": "7a262ac0b9a499e7b987",
-    "url": "/david-sanvicente.github.io/static/js/main.3a0e7b55.chunk.js"
+    "revision": "bdafbf2c943ea00747f5",
+    "url": "/david-sanvicente.github.io/static/js/main.e2ba5e17.chunk.js"
   },
   {
     "revision": "8d22869e2303ef738a5d",
     "url": "/david-sanvicente.github.io/static/js/runtime~main.3f877338.js"
   },
   {
-    "revision": "8e496949e0c5db7dfc7f",
-    "url": "/david-sanvicente.github.io/static/js/2.2c947bb2.chunk.js"
+    "revision": "34a74338855b23e5063e",
+    "url": "/david-sanvicente.github.io/static/js/2.06ced224.chunk.js"
   },
   {
     "revision": "16809aa7430829676bea374431cd5308",
@@ -60,11 +60,15 @@ self.__precacheManifest = [
     "url": "/david-sanvicente.github.io/static/media/sprayrbg.dc8c5903.jpg"
   },
   {
+    "revision": "80629b9f9b8881a4251b9cd1555a6447",
+    "url": "/david-sanvicente.github.io/static/media/botbuddiesbg.80629b9f.jpg"
+  },
+  {
     "revision": "11122160c1ddddd08582be752aebe4f1",
     "url": "/david-sanvicente.github.io/static/media/nybright.11122160.jpg"
   },
   {
-    "revision": "55d34b615d4393da5b8e2d8e64e78ddb",
+    "revision": "4f107318a20d03de8dfb4ae53ad7c742",
     "url": "/david-sanvicente.github.io/index.html"
   }
 ];
