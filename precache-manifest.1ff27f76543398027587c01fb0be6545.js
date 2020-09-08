@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "d24803e71522181b960d",
-    "url": "/david-sanvicente.github.io/static/css/main.cb7b427b.chunk.css"
+    "revision": "38161bf81852eda1c04d",
+    "url": "/david-sanvicente.github.io/static/css/main.8a390a3a.chunk.css"
   },
   {
-    "revision": "d24803e71522181b960d",
-    "url": "/david-sanvicente.github.io/static/js/main.6918b0ea.chunk.js"
+    "revision": "38161bf81852eda1c04d",
+    "url": "/david-sanvicente.github.io/static/js/main.096bc7e4.chunk.js"
   },
   {
     "revision": "8d22869e2303ef738a5d",
     "url": "/david-sanvicente.github.io/static/js/runtime~main.3f877338.js"
   },
   {
-    "revision": "34a74338855b23e5063e",
-    "url": "/david-sanvicente.github.io/static/js/2.06ced224.chunk.js"
+    "revision": "58824ebee79526939dc1",
+    "url": "/david-sanvicente.github.io/static/js/2.c6555c68.chunk.js"
   },
   {
     "revision": "16809aa7430829676bea374431cd5308",
@@ -64,11 +64,23 @@ self.__precacheManifest = [
     "url": "/david-sanvicente.github.io/static/media/botbuddiesbg.80629b9f.jpg"
   },
   {
+    "revision": "f5399af25c8f18ba5fbf86e51ae94de7",
+    "url": "/david-sanvicente.github.io/static/media/pixelate.f5399af2.png"
+  },
+  {
+    "revision": "a24c0a455fb037b29401f12cb3fdb313",
+    "url": "/david-sanvicente.github.io/static/media/whackamole.a24c0a45.png"
+  },
+  {
+    "revision": "0b9de2eeaf16b5dbdc25dbae89591b8f",
+    "url": "/david-sanvicente.github.io/static/media/shoppingCart.0b9de2ee.png"
+  },
+  {
     "revision": "11122160c1ddddd08582be752aebe4f1",
     "url": "/david-sanvicente.github.io/static/media/nybright.11122160.jpg"
   },
   {
-    "revision": "2575120b88e1a6fc2bedcff07e80c213",
+    "revision": "deceac0f1377af5323f4a60938a206a4",
     "url": "/david-sanvicente.github.io/index.html"
   }
 ];
