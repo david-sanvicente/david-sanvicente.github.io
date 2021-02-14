@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "38161bf81852eda1c04d",
-    "url": "/david-sanvicente.github.io/static/css/main.8a390a3a.chunk.css"
+    "revision": "59ce4ea83f071f6575f0",
+    "url": "/david-sanvicente.github.io/static/css/main.840c41e3.chunk.css"
   },
   {
-    "revision": "38161bf81852eda1c04d",
-    "url": "/david-sanvicente.github.io/static/js/main.096bc7e4.chunk.js"
+    "revision": "59ce4ea83f071f6575f0",
+    "url": "/david-sanvicente.github.io/static/js/main.f0e847f0.chunk.js"
   },
   {
     "revision": "8d22869e2303ef738a5d",
     "url": "/david-sanvicente.github.io/static/js/runtime~main.3f877338.js"
   },
   {
-    "revision": "58824ebee79526939dc1",
-    "url": "/david-sanvicente.github.io/static/js/2.c6555c68.chunk.js"
+    "revision": "72b38424d46bd57593c7",
+    "url": "/david-sanvicente.github.io/static/js/2.67d04536.chunk.js"
   },
   {
     "revision": "16809aa7430829676bea374431cd5308",
@@ -76,11 +76,15 @@ self.__precacheManifest = [
     "url": "/david-sanvicente.github.io/static/media/shoppingCart.0b9de2ee.png"
   },
   {
+    "revision": "9a2f35e563b527ba9e582f7eba67a2e7",
+    "url": "/david-sanvicente.github.io/static/media/guessNumber.9a2f35e5.png"
+  },
+  {
     "revision": "11122160c1ddddd08582be752aebe4f1",
     "url": "/david-sanvicente.github.io/static/media/nybright.11122160.jpg"
   },
   {
-    "revision": "deceac0f1377af5323f4a60938a206a4",
+    "revision": "2e6244230b9b89374a54853ac22b03da",
     "url": "/david-sanvicente.github.io/index.html"
   }
 ];
