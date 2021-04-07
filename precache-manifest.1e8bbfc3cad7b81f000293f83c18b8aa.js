@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/david-sanvicente.github.io/static/media/nybright.11122160.jpg"
   },
   {
-    "revision": "2e2017b9689d353d2fdb2270114656d9",
+    "revision": "5744307222aab37a8b1c2781be153948",
     "url": "/david-sanvicente.github.io/index.html"
   }
 ];
