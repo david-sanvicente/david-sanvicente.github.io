@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./styles.scss";
 import sprayrbg from "../../assets/images/sprayrbg.jpg";
-import botbuddiesbg from "../../assets/images/botbuddiesbg.jpg";
+// import botbuddiesbg from "../../assets/images/botbuddiesbg.jpg";
 
 export default class Projects extends Component {
   render() {
