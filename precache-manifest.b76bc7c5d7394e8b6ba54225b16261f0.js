@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d01d9eec609e569b0887",
-    "url": "/static/css/main.c97ff571.chunk.css"
+    "revision": "b9d471d427360d150791",
+    "url": "/static/css/main.32a97d2f.chunk.css"
   },
   {
-    "revision": "d01d9eec609e569b0887",
-    "url": "/static/js/main.8b8b2dc8.chunk.js"
+    "revision": "b9d471d427360d150791",
+    "url": "/static/js/main.be0f3acb.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/media/nybright.11122160.jpg"
   },
   {
-    "revision": "4010110d58bbf05f08023477319db79d",
+    "revision": "9ee11f4859994f135d420f0208e47b00",
     "url": "/index.html"
   }
 ];
